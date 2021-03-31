@@ -1,10 +1,7 @@
 import { Router } from "express";
 const router = Router();
 
-interface TodoObject {
-  id: number;
-  name: string;
-}
+import { TodoObject } from "../models/todos";
 
 const todos: TodoObject[] = [];
 
