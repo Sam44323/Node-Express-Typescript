@@ -12,5 +12,6 @@ _A simple node express api using **TYPESCRIPT**_
 - **Express**
 - **Typescript**
 - **Body-parser**
+- **ts-node-dev** (_Watcher(like nodemon) for server with ts files_)
 
 ---
